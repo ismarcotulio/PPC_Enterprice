@@ -1,0 +1,9 @@
+[submodule "PPC_terraform"]
+	path = PPC_terraform
+	url = https://github.com/ismarcotulio/PPC_terraform.git
+[submodule "PPC_Backend"]
+	path = PPC_Backend
+	url = https://github.com/ismarcotulio/PPC_Backend.git
+[submodule "PPC_Frontend"]
+	path = PPC_Frontend
+	url = https://github.com/ismarcotulio/PPC_Frontend.git
